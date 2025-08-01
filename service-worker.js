@@ -7,8 +7,8 @@ self.addEventListener("install", function (e) {
         "/style.css",
         "/app.js",
         "/manifest.json",
-        "/icons/Daco_1922300.png",
         "/icons/icon-192x192.png",
+        "/icons/512x512-5cb2.png",
       ]);
     })
   );
